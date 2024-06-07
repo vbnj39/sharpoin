@@ -1,0 +1,16 @@
+
+
+.art_frm{
+    border: 1px solid #000 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    position: fixed;
+    background: #00000098;
+    top: 8.4vh;
+    left: 0 !important;
+}
+
+.m365{
+    width: 500px;
+    height: 400px;
+}
